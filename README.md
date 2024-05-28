@@ -1,4 +1,4 @@
 # git-demo
 This is my first git repository.
 <br>
-Author - Shyamsundar P S
+Author - Shyamsundar P S(Mern Stack Developer)
